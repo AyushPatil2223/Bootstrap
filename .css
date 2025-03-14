@@ -1,0 +1,7 @@
+<style>
+  .carousel-item img {
+    height: 100vh;  /* Set the height to 100% of the viewport height */
+    object-fit: cover;
+    width: 100%;
+  }
+</style>
